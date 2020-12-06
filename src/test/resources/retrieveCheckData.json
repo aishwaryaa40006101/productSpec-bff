@@ -1,0 +1,128 @@
+{
+	"id": "2",
+	"href": "links",
+	"brand": "brand2-new-update",
+	"description": "descr",
+	"isBundle": true,
+	"lastUpdate": [
+		2020,
+		12,
+		2,
+		21,
+		53,
+		20,
+		496000000
+	],
+	"lifecycleStatus": "status1",
+	"name": "name1",
+	"productNumber": "prodNo1",
+	"version": "V1",
+	"productSpecCharacteristic": [
+		{
+			"configurable": true,
+			"description": "descr1",
+			"extensible": true,
+			"isUnique": true,
+			"maxCardinality": 0,
+			"minCardinality": 0,
+			"name": "name2",
+			"regex": "regex2",
+			"valueType": "valueType1",
+			"productSpecCharRelationship": [
+				{
+					"id": "2",
+					"href": "href2",
+					"charSpecSeq": 0,
+					"name": "name3",
+					"relationshipType": "relationshipType1",
+					"validFor": {
+						"endDateTime": [
+							2020,
+							12,
+							2,
+							21,
+							53,
+							20,
+							496000000
+						],
+						"startDateTime": [
+							2020,
+							12,
+							2,
+							21,
+							53,
+							20,
+							496000000
+						]
+					},
+					"baseType": "string",
+					"schemaLocation": "string",
+					"type": "string"
+				}
+			],
+			"productSpecCharacteristicValue": [
+				{
+					"isDefault": true,
+					"rangeInterval": "rangeInterval1",
+					"regex": "regex2",
+					"unitOfMeasure": "unitOfMeasure",
+					"valueFrom": "valueFrom",
+					"valueTo": "valueTo",
+					"valueType": "valueType",
+					"validFor": {
+						"endDateTime": [
+							2020,
+							12,
+							2,
+							21,
+							53,
+							20,
+							496000000
+						],
+						"startDateTime": [
+							2020,
+							12,
+							2,
+							21,
+							53,
+							20,
+							496000000
+						]
+					},
+					"value": null,
+					"baseType": "string",
+					"schemaLocation": "string",
+					"type": "string"
+				}
+			],
+			"validFor": {
+				"endDateTime": [
+					2020,
+					12,
+					2,
+					21,
+					53,
+					20,
+					496000000
+				],
+				"startDateTime": [
+					2020,
+					12,
+					2,
+					21,
+					53,
+					20,
+					496000000
+				]
+			},
+			"baseType": "string",
+			"schemaLocation": "string",
+			"type": "string"
+		}
+	],
+	"validFor": null,
+	"baseType": "string",
+	"schemaLocation": "string",
+	"type": "string"
+}
+ 
